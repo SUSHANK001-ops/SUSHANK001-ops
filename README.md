@@ -61,7 +61,7 @@ I'm a passionate **Full-Stack Developer**, tech enthusiast, and a creative probl
 
 ---
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sushank-lamichhane/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/sushank-lamichhane/](https://www.linkedin.com/in/lamichhane--68b754341?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvPPHb6tWTMqRX9Q7RTiZKA%3D%3D))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sensei_01.py/)
 
 ---
