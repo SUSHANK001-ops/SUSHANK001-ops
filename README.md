@@ -16,7 +16,7 @@ Hey! I'm Sushank — a curious and creative **Full-Stack Developer** with a pass
 - 💡 Skilled in **React, JavaScript, Python, Firebase, and Databases**
 - 🎨 Design-savvy with **Photoshop & Premiere Pro**
 - 🤝 Always open for **tech collabs and cool side projects**
-- 📬 Email me: `sushanklamichhaneofficial@gmail.com`
+- 📬 Email me: `mail@sushanka.com.np`
 
 ---
 
